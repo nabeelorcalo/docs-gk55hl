@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-gqtpej.indocuansite.online/sitemap.xml
